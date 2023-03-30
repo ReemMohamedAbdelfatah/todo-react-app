@@ -15,7 +15,7 @@ const Header = () => {
         color: "#ececec",
         textTransform: "lowercase",
         textAlign: "center",
-      }}>todos</h1>
+      }}>To Do List</h1>
     </header>
   )
 }
